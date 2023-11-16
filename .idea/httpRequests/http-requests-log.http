@@ -1,0 +1,179 @@
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&secjond=25
+
+<> 2023-11-16T143943.200.json
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&secjond=25
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 19
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&second=25
+
+<> 2023-11-16T143901.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 19
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&second=25
+
+<> 2023-11-16T143803.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&sexcond=25
+
+<> 2023-11-16T143746.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&sexcond=25
+
+<> 2023-11-16T143703.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&sexcond=25
+
+<> 2023-11-16T143645.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 19
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=100&second=25
+
+<> 2023-11-16T143147.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=3&second=4
+
+<> 2023-11-16T135754.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/json
+Content-Length: 20
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first = 5
+second = 6
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=3&second=4
+
+<> 2023-11-16T135143.404.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=1&second=2
+
+<> 2023-11-16T122839.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=1&second=2
+
+<> 2023-11-16T122710.500.html
+
+###
+
+POST http://127.0.0.1:8000/exchange/values
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+first=1&second=2
+
+<> 2023-11-16T122632.500.html
+
+###
+
